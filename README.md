@@ -15,7 +15,7 @@ Mechanics:
 -Player sprite touching a colored berry earns the player 1 point  
 -Player sprite touching a black berry (bomb) knocks the player out of the sky, resulting in game over  
 -Player sprite falling below the bottom of the screen results in game over  
--Player sprite releasing spit removes all berries in the spit's trajectory from the screen  
+-Player sprite releasing spit removes all berries in the spit's linear trajectory from the screen  
 
 Controls:  
 -Tap the screen above the player sprite to make it jump  
