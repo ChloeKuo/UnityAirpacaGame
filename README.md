@@ -1,7 +1,7 @@
 # UnityAirpacaGame
 2D Android game
 
-![](AirpacaDemo.gif) ![](GameOver.gif)
+![](AirpacaDemo.gif) ![](GameOver.gif)  
 (Screen recordings from an Android cellphone)
 
 This game is a work-in-progress hobby project.
